@@ -6,6 +6,10 @@
     "node": "*",
     "npm": "*"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkylarScaling/nodejs-basic.git"
+  },
   "scripts": {
     "start": "node server.js",
   }
