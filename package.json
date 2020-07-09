@@ -11,6 +11,6 @@
     "url": "https://github.com/SkylarScaling/nodejs-basic.git"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node server.js"
   }
 }
