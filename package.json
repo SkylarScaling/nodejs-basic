@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-basic",
+  "description": "Node.js app for OpenShift",
+  "main": "server.js",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js",
+  }
+}
