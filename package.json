@@ -1,6 +1,6 @@
 {
   "name": "nodejs-basic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node.js HelloWorld app for OpenShift",
   "main": "server.js",
   "dependencies": {
